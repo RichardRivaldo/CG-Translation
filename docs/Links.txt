@@ -1,0 +1,4 @@
+Repository Translasi: https://github.com/RichardRivaldo/CG-Translation
+Repository Rotasi: https://github.com/RichardRivaldo/CG-Rotation
+Repository Scaling: https://github.com/RichardRivaldo/CG-Scaling
+Video YouTube: https://www.youtube.com/watch?v=jKxrFzcvZ_E
